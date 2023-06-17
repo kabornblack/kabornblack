@@ -4,7 +4,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Back-End Developer
 ------------------
 
-👋 Hello, I'm Kabiru Shaibu! 🌐 Aspiring Web Developer | Passionate about Back-End Development 💻 I'm a motivated and dedicated web developer with a strong foundation in JavaScript. I'm eager to contribute my skills and learn new technologies to create engaging and amazing user web experiences. 🚀 Currently exploring frameworks like NodeJs, MongoDB and ReactJs and learning about responsive web app principles, server rendering and APIs. Excited to work on projects that challenge me and help me grow as a developer. 🎓 I recently completed my web development training, where I gained hands-on experience in building websites and collaborating in a team environment. I have a keen eye for detail and strive to write clean and maintainable code. 🔧 Proficient in: JavaScript and NodeJs 🌱 Currently learning: React and TypeScript 📫 You can reach me at kabi.shaib@gmail.com or connect with me on https://www.linkedin.com/in/kabiru-shaibu-a81082164/. 🌟 Open to new opportunities and eager to contribute to exciting web development projects. Let's connect and create amazing things together! #coding #webdevelopment #javascript #reactjs #backend
+👋 Hello, I'm Kabiru Shaibu! 
+🌐 Aspiring Web Developer | Passionate about Back-End Development 
+💻 I'm a motivated and dedicated web developer with a strong foundation in JavaScript. I'm eager to contribute my skills and learn new technologies to create engaging and amazing user web experiences. 
+🚀 Currently exploring frameworks like NodeJs, MongoDB and ReactJs and learning about responsive web app principles, server rendering and APIs. Excited to work on projects that challenge me and help me grow as a developer. 
+🎓 I recently completed several online web development training, where I gained hands-on experience in building websites and collaborating in a team environment. I have a keen eye for detail and strive to write clean and maintainable code. 
+🔧 Proficient in: JavaScript and NodeJs 
+🌱 Currently learning: React and TypeScript 
+📫 You can reach me at kabi.shaib@gmail.com or connect with me on https://www.linkedin.com/in/kabiru-shaibu-a81082164/. 
+🌟 Open to new opportunities and eager to contribute to exciting web development projects. Let's connect and create amazing things together! #coding #webdevelopment #javascript #reactjs #backend
 
 *   🌍  I'm based in Tallinn
 *   ✉️  You can contact me at [kabi.shaib@gmail.com](mailto:kabi.shaib@gmail.com)
