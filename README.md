@@ -6,9 +6,13 @@ Back-End Developer
 
 👋 Hello, I'm Kabiru Shaibu! 
 🌐 Aspiring Web Developer | Passionate about Back-End Development 
+
+
+
+
 💻 I'm a motivated and dedicated web developer with a strong foundation in JavaScript. I'm eager to contribute my skills and learn new technologies to create engaging and amazing user web experiences. 
-🚀 Currently exploring frameworks like NodeJs, MongoDB and ReactJs and learning about responsive web app principles, server rendering and APIs. Excited to work on projects that challenge me and help me grow as a developer. 
-🎓 I recently completed several online web development training, where I gained hands-on experience in building websites and collaborating in a team environment. I have a keen eye for detail and strive to write clean and maintainable code. 
+//🚀 Currently exploring frameworks like NodeJs, MongoDB and ReactJs and learning about responsive web app principles, server rendering and APIs. Excited to work on projects that challenge me and help me grow as a developer. 
+//🎓 I recently completed several online web development training, where I gained hands-on experience in building websites and collaborating in a team environment. I have a keen eye for detail and strive to write clean and maintainable code. 
 
 🔧 Proficient in: JavaScript and NodeJs 
 
