@@ -10,19 +10,19 @@ Back-End Developer
 🌐 Aspiring Web Developer | Passionate about Back-End Development 
 
 
-💻 I'm a motivated and dedicated web developer with a strong foundation in JavaScript. I'm eager to contribute my skills and learn new technologies to create engaging and amazing user web experiences. 
+💻 I'm a motivated and dedicated web developer with a strong foundation in javaScript && nodeJs. I'm eager to contribute my skills and learn new technologies to create engaging and amazing user web experiences. 
 
 
 
-🚀 Currently exploring frameworks like NodeJs, MongoDB and ReactJs and learning about responsive web app principles, server rendering and restful APIs. Excited to work on projects that challenge me and help me grow as a developer. 
+🚀 Currently exploring frameworks like mongoDB, reactJs and typeScript. Learning more about responsive web app principles, server rendering and restful APIs. Excited to work on projects that challenge me and help me grow as a developer. 
 
 
 
-🎓 I recently completed several online web development training, where I gained hands-on experience in building websites and collaborating in a team environment. I have a keen eye for detail and strive to write clean and maintainable code. 
+🎓 I recently completed several online web development training, where I gained hands-on experience in building websites and collaborating in a team environment. I have a keen eye for detail and strive to write clean, readable and maintainable code. 
 
 
 
-🔧 Proficient in: JavaScript and NodeJs 
+🔧 Proficient in: JavaScript && NodeJs.
 
 
 
@@ -35,7 +35,7 @@ Back-End Developer
 
 *   🌍  I'm based in Tallinn
 *   ✉️  You can contact me at [kabi.shaib@gmail.com](mailto:kabi.shaib@gmail.com)
-*   🧠  I'm learning nodeJs, reactJs, typeScript
+*   🧠  I'm learning mongoDB reactJs, typeScript
 *   🤝  I'm open to collaborating on Projects### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
