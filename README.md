@@ -10,11 +10,11 @@ Back-End Developer
 🌐 Aspiring Web Developer | Passionate about Back-End Development 
 
 
-💻 I'm a motivated and dedicated web developer with a strong foundation in javaScript && nodeJs. I'm eager to contribute my skills and learn new technologies to create engaging and amazing user web experiences. 
+💻 I'm a motivated and dedicated web developer with a strong foundation in javaScript && nodeJs. I'm eager to contribute my skills and learn new technologies to create engaging and amazing user web experiences...
 
 
 
-🚀 Currently exploring frameworks like mongoDB, reactJs and typeScript. Learning more about responsive web app principles, server rendering and restful APIs. Excited to work on projects that challenge me and help me grow as a developer. 
+🚀 Currently exploring frameworks like mongoDB, reactJs and typeScript. Learning more about responsive web app principles, server rendering and restful APIs. Excited to work on projects that challenge me and help me grow as a developer...
 
 
 
