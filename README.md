@@ -18,7 +18,7 @@ Back-End Developer!
 
 
 
-🎓 I recently completed several online web development training, where I gained hands-on experience in building websites and collaborating in a team environment. I have a keen eye for detail and strive to write clean, readable and maintainable code. 
+🎓 I recently completed several online web development training, where I gained hands-on experience in building websites and collaborating in a team environment. I have a keen eye for detail and strive to write clean, readable and maintainable code independently and collaboratively.
 
 
 
