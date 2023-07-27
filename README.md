@@ -54,7 +54,7 @@ Back-End Developer!
 </p>
                     
                   <### Socials>
-                  
+                  facebook instagram
                   
                 <p align="left">
                           
