@@ -22,19 +22,19 @@ Back-End Developer!
 
 
 
-🔧 Proficient in: JavaScript && NodeJs.
+🔧 Proficient in: javaScript && nodeJs.
 
 
 
 
-🌱 Currently learning: React and TypeScript 
+🌱 Currently learning: React and Django
 
 
 
 🌟 Open to new opportunities and eager to contribute to exciting web development projects. Let's connect and create amazing things together! #coding #webdevelopment #javascript #reactjs #backend
 
 *   🌍  I'm based in Tallinn
-*   ✉️  You can contact me at [kabi.shaib@gmail.com](mailto:kabi.shaib@gmail.com)
+*   ✉️  You can contact me at [kabi.shaib@gmail.com](mailto: kabi.shaib@gmail.com)
 *   🧠  I'm learning mongoDB reactJs, typeScript
 *   🤝  I'm open to collaborating on Projects### Skills 
 <p align="left">
