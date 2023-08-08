@@ -14,7 +14,7 @@ Back-End Developer!
 
 
 
-🚀 Currently exploring frameworks like mongoDB, reactJs and typeScript. Learning more about responsive web app principles, server rendering and restful APIs. Excited to work on projects that challenge me and help me grow as a developer...
+🚀 Currently exploring frameworks like mongoDB, reactJs and django. Learning more about responsive web app principles, server rendering and restful APIs. Excited to work on projects that challenge me and help me grow as a developer...
 
 
 
