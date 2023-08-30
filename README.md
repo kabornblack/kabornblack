@@ -6,7 +6,7 @@ Back-End Developer!
 
 👋 Hello,
 
-<iframe src="https://giphy.com/embed/bAQH7WXKqtIBrPs7sR" width="480" height="268" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/scaler-official-sleep-code-coding-bAQH7WXKqtIBrPs7sR">via GIPHY</a></p>
+![GIF Example](https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif)
 
 🌐 Aspiring Web Developer | Passionate about Back-End Development 
 
