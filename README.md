@@ -5,6 +5,7 @@ Back-End Developer!
 --------------------
 
 ![GIF Example](https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif)
+<img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="240" height="197" alt="GIF Example">
 
 🌐 Aspiring Web Developer | Passionate about Back-End Development 
 
