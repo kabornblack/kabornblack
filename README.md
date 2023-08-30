@@ -4,7 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Back-End Developer!
 --------------------
 
-![GIF Example](https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif)
 <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="240" height="197" alt="GIF Example">
 
 🌐 Aspiring Web Developer | Passionate about Back-End Development 
