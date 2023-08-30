@@ -4,7 +4,7 @@ Kabiru Shaibu
 Back-End Developer!
 --------------------
 
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)      <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="200" height="80" alt="GIF Example"> 
+![]("https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="200" height="80" alt="GIF Example")      <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="200" height="80" alt="GIF Example"> 
 
 
 🌐 Aspiring Web Developer | Passionate about Back-End Development 
