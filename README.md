@@ -22,7 +22,7 @@ Back-End Developer!
 
 
 
-🔧 Proficient in: javaScript, NodeJs, MongoDB, React.
+🔧 Proficient in: javaScript, Node.js, Express, MongoDB, React.
 
 
 
