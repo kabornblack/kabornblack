@@ -1,10 +1,14 @@
-Kabiru Shaibu
+<p align="center">
+    Kabiru Shaibu
+  </p>
 =====================================================================================================================================
 
 Back-End Developer!
 --------------------
 
-<img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="200" height="80" alt="GIF Example 2"> <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="100" height="100" alt="GIF Example 1">   
+<p align="center">
+  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="200" height="80" alt="GIF Example 2"> 
+</p>
 
 
 🌐 Aspiring Web Developer | Passionate about Back-End Development 
