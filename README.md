@@ -14,21 +14,21 @@ Back-End Developer!
 
 
 <p align="center">
-  🌐 Aspiring Web Developer | Passionate about Back-End Development 
+  🌐 Aspiring Full-stack Developer | Passionate about Back-End Development 
 </p>
 
 <p align="center">
-  💻 I'm a motivated and dedicated web developer with a strong foundation in javaScript && nodeJs. I'm eager to contribute my skills and learn new technologies to create engaging and amazing user web experiences...
-</p>
-
-
-<p align="center">
-  🚀 Currently exploring frameworks like mongoDB, reactJs and django. Learning more about responsive web app principles, server rendering and restful APIs. Excited to work on projects that challenge me and help me grow as a developer...
+  💻 Self motivated. Self taught. Dedicated web developer with a strong foundation in javaScript.
 </p>
 
 
 <p align="center">
-  🎓 I recently completed several online web development training, where I gained hands-on experience in building websites and collaborating in a team environment. I have a keen eye for detail and strive to write clean, readable and maintainable code independently and collaboratively...
+  🚀 Exploring frameworks like Node.js, Express, MongoDB, PostgreSQL, ReactJs and django. Learning more about responsive web app principles, server rendering and restful APIs.
+</p>
+
+
+<p align="center">
+  🎓 Attended several online web development training, I gained hands-on experience in building websites and collaborating in a team environment. I have eye for detail, i strive to write clean, readable and maintainable code independently and collaboratively...
 </p>
 
 
@@ -37,14 +37,13 @@ Back-End Developer!
 </p>
 
 
-
 <p align="center">
   🌱 Currently learning: Everyday
 </p>
 
 
 <p align="center">
-  🌟 Open to new opportunities and eager to contribute to exciting web development projects. Let's connect and create amazing things together! #coding #webdevelopment #javascript #reactjs #backend
+  🌟 Open to new opportunities.
   </p>
 
 *   🌍  I'm based in Tallinn
