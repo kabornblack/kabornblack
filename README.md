@@ -25,14 +25,12 @@ Back-End Developer!
   💻 Self motivated. Self taught. Dedicated web developer with a strong foundation in javaScript.
 </p>
 
+<p align="center">
+  🎓 Attended several online web development training, I gained hands-on experience in building websites and collaborating in a team environment. I have eye for detail, i strive to write clean, readable and maintainable code independently and collaboratively...
+</p>
 
 <p align="center">
   🚀 Exploring frameworks like Node.js, Express, MongoDB, PostgreSQL, ReactJs and django. Learning more about responsive web app principles, server rendering and restful APIs.
-</p>
-
-
-<p align="center">
-  🎓 Attended several online web development training, I gained hands-on experience in building websites and collaborating in a team environment. I have eye for detail, i strive to write clean, readable and maintainable code independently and collaboratively...
 </p>
 
 ---
