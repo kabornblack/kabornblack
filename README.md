@@ -59,13 +59,16 @@ Back-End Developer!
 *   🤝 Open to collaboration
 </p>
 
+
 <ul align="center">
-  <li style="font-size: 24px; font-weight: bold;">Kabiru Shaibu</li>
-  <li>
-    <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="200" height="80" alt="GIF Example 2">
-  </li>
-  <li style="font-size: 18px;">Back-End Developer!</li>
+  <li><p>🌱 Currently learning: Everyday</p></li>
+  <li><p>🌟 Open to new opportunities.</p></li>
+  <li><p>*   🌍  I'm based in Tallinn</p></li>
+  <li><p>*   ✉️  Email: kabi.shaib@gmail.com</p></li>
+  <li><p>*   🧠  Learning every single day</p></li>
+  <li><p>*   🤝  Open to collaboration</p></li>
 </ul>
+
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
