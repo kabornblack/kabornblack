@@ -37,35 +37,13 @@ Back-End Developer!
 </p>
 
 
-<p align="center">
-  🌱 Currently learning: Everyday
-</p>
-
-
-<p align="center">
-  🌟 Open to new opportunities.
-  </p>
-
-<p align="center">
-*   🌍  I'm based in Tallinn
-</p>
-<p align="center">
-*   ✉️  Email: kabi.shaib@gmail.com
-</p>
-<p align="center">
-*   🧠 Learning every single day
-</p>
-<p align="center">
-*   🤝 Open to collaboration
-</p>
-
 
 <ul align="center">
   <li><p>🌱 Currently learning: Everyday</p></li>
   <li><p>🌟 Open to new opportunities.</p></li>
   <li><p>*   🌍  I'm based in Tallinn</p></li>
-  <li><p>*   ✉️  Email: kabi.shaib@gmail.com</p></li>
-  <li><p>*   🧠  Learning every single day</p></li>
+  <li><p>*   ✉️  kabi.shaib@gmail.com</p></li>
+  <li><p>*   🧠  Learn every single day</p></li>
   <li><p>*   🤝  Open to collaboration</p></li>
 </ul>
 
