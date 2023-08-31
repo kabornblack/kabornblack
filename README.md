@@ -11,7 +11,7 @@ Kabiru Shaibu
 Back-End Developer!
 </p>
 
-
+---
 
 <p align="center">
   🌐 Aspiring Full-stack Developer | Passionate about Back-End Development 
@@ -35,6 +35,7 @@ Back-End Developer!
 <p align="center">
   🔧 Proficient in: javaScript, Node.js, Express, MongoDB, React.
 </p>
+___
 
 
 
