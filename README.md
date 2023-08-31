@@ -1,5 +1,5 @@
 <p align="center" style="font-size: 24px; font-weight: bold;">
-##  Kabiru Shaibu
+# Kabiru Shaibu
 </p>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center" style="font-size: 18px;">
-  Back-End Developer!
+ # Back-End Developer!
 </p>
 
 
