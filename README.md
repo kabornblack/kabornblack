@@ -1,15 +1,16 @@
-<p align="center">
-    ## Kabiru Shaibu
+<p align="center" style="font-size: 24px; font-weight: bold;">
+     Kabiru Shaibu
   </p>
+
+  <p align="center" style="font-size: 16px; font-weight: bold;>
+  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="200" height="80" alt="GIF Example 2"> 
+</p>
 
 <p align="center">
     Back-End Developer!
-    -------------------
+   
   </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="200" height="80" alt="GIF Example 2"> 
-</p>
 
 
 🌐 Aspiring Web Developer | Passionate about Back-End Development 
