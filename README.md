@@ -35,7 +35,7 @@ Back-End Developer!
 <p align="center">
   🔧 Proficient in: javaScript, Node.js, Express, MongoDB, React.
 </p>
-___
+---
 
 
 
