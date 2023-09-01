@@ -16,7 +16,6 @@ Back-End Developer!
   🔧 Proficient in: javaScript, Node.js, Express, MongoDB, React.
 </p>
 
-
 <p align="center">
   🌐 Aspiring Full-stack Developer | Passionate about Back-End Development 
 </p>
@@ -26,7 +25,7 @@ Back-End Developer!
 </p>
 
 <p align="center">
-  🎓 Attended several online web development training, I gained hands-on experience in building websites and collaborating in a team environment. I have eye for detail, i strive to write clean, readable and maintainable code independently and collaboratively...
+  🎓 I have eye for detail, i strive to write clean, readable and maintainable code independently and collaboratively...
 </p>
 
 <p align="center">
