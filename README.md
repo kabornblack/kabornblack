@@ -1,4 +1,4 @@
-<p align="center" style="font-size: 24px; font-weight: bold;">
+<p align="center" >
 **Kabiru Shaibu**
 </p>
 
@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="200" height="80" alt="GIF Example 2"> 
 </p>
 
-<p align="center" style="font-size: 18px;">
+<p align="center" >
 __Back-End Developer!__
 </p>
 
