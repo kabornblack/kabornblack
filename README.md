@@ -1,5 +1,5 @@
 <p align="center" >
-**Kabiru Shaibu**
+**<strong>Kabiru Shaibu</strong>**
 </p>
 
 <p align="center">
