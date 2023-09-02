@@ -1,7 +1,5 @@
 <p align="center">
-  <center>
   <strong style="font-size: 24px;">Kabiru Shaibu</strong>
-  </center>
 </p>
 
 <p align="center">
