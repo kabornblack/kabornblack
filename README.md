@@ -8,7 +8,7 @@
 ---
 
 <p align="center" >
-import CircleIcon from '@mui/icons-material/Circle'; Back-End Developer!
+  Full-stack Developer!
 </p>
 
 <p align="center">
