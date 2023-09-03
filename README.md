@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-  <strong style="font-size: 24;">Kabiru Shaibu</strong>
+  <h1>Kabiru Shaibu</h1>
 </p>
 
 <p align="center" >
