@@ -1,16 +1,15 @@
-<p align="center">
-  <strong style="font-size: 24px;">Kabiru Shaibu</strong>
-</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="200" height="80" alt="GIF Example 2"> 
 </p>
 
-<p align="center" >
-__Back-End Developer!__
-</p>
+
 
 ---
+
+<p align="center" >
+import CircleIcon from '@mui/icons-material/Circle'; Back-End Developer!
+</p>
 
 <p align="center">
   🔧 Proficient in: javaScript, Node.js, Express, MongoDB, React.
