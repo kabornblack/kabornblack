@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  🌐 Aspiring Full-stack Developer | Passionate about Back-End Development 
+  🌐 Profound Full-stack Developer | Passionate about writing clean-readable codes 
 </p>
 
 <p align="center">
