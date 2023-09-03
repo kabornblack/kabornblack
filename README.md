@@ -11,6 +11,8 @@
   <h1>Kabiru Shaibu</h1>
 </p>
 
+---
+
 <p align="center" >
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="20" height="20" alt="JavaScript" /></a> I am a Full-stack Developer!
 </p>
