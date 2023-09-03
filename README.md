@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="200" height="80" alt="GIF Example 2"> 
+  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="400" height="160" alt="GIF Example 2"> 
 </p>
 
 
@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-  <strong style="font-size: 24px;">Kabiru Shaibu</strong>
+  <strong style="font-size: 24;">Kabiru Shaibu</strong>
 </p>
 
 <p align="center" >
