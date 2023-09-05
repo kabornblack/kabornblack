@@ -12,10 +12,8 @@
 <p align="center" style="font-size: 5;">
   Kabiru Shaibu
 </p>
-<p align="center"
-  <font-size="50px">  
+<p style="color:blue;font-size:18px;">  
     Hello World 
-</font> 
 </p>
 
 ---
