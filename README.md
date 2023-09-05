@@ -2,6 +2,12 @@
 <p align="center">
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="400" height="160" alt="GIF Example 2"> 
 </p>
+<p align="center">
+  <font size="5">  
+    Hello World 
+</font> 
+</p>
+
 
 
 
