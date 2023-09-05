@@ -7,7 +7,7 @@
 
 ---
 
-<p align="center">
+<p align="center" style="font-size: 5;">
   Kabiru Shaibu
 </p>
 
