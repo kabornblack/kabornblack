@@ -9,8 +9,8 @@
 
 ---
 
-## <p align="center" style="font-size: 5;">
-  Kabiru Shaibu
+<p align="center" style="font-size: 5;">
+  ## Kabiru Shaibu
 </p>
 <p style="font-size:80px;">  
     ## HELLo, WORLD
