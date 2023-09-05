@@ -9,7 +9,7 @@
 
 ---
 
-<p align="center" style="font-size: 5;">
+<p align="center" style="font-size:120px;">
   ## Kabiru Shaibu
 </p>
 <p style="font-size:80px;">  
