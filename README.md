@@ -10,7 +10,7 @@
 ---
 
 <p align="center" style="font-size:120px;">
-   <span> Kabiru Shaibu </span>
+   <span style="font-size:400px;"> Kabiru Shaibu </span>
 </p>
 <p style="font-size:200px;">  
     ## Hello world
