@@ -10,7 +10,7 @@
 ---
 
 <p align="center">
-   <##>  Kabiru Shaibu
+     Kabiru Shaibu
 </p>
 
 
