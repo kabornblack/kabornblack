@@ -17,27 +17,27 @@
 ---
 
 <p align="center" >
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="20" height="20" alt="JavaScript" /></a> I am a Full-stack Developer!
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="20" height="20" alt="JavaScript" /></a> ᴵ ᵃᵐ ᵃ ᶠᵘˡˡ-ˢᵗᵃᶜᵏ ᴰᵉᵛᵉˡᵒᵖᵉʳ!
 </p>
 
 <p align="center">
-  🔧 Proficient in: javaScript, Node.js, Express, MongoDB, React.
+  🔧 ᴾʳᵒᶠⁱᶜⁱᵉⁿᵗ ⁱⁿ: ʲᵃᵛᵃˢᶜʳⁱᵖᵗ, ᴺᵒᵈᵉ.ʲˢ, ᴱˣᵖʳᵉˢˢ, ᴹᵒⁿᵍᵒᴰᴮ, ᴿᵉᵃᶜᵗ.
 </p>
 
 <p align="center">
-  🌐 Profound Full-stack Developer | Passionate about writing clean-readable codes 
+  🌐 ᴾʳᵒᶠᵒᵘⁿᵈ ᶠᵘˡˡ-ˢᵗᵃᶜᵏ ᴰᵉᵛᵉˡᵒᵖᵉʳ | ᴾᵃˢˢⁱᵒⁿᵃᵗᵉ ᵃᵇᵒᵘᵗ ʷʳⁱᵗⁱⁿᵍ ᶜˡᵉᵃⁿ-ʳᵉᵃᵈᵃᵇˡᵉ ᶜᵒᵈᵉˢ 
 </p>
 
 <p align="center">
-  💻 Self motivated. Self taught. Dedicated web developer with a strong foundation in javaScript.
+  💻 ˢᵉˡᶠ ᵐᵒᵗⁱᵛᵃᵗᵉᵈ. ˢᵉˡᶠ ᵗᵃᵘᵍʰᵗ. ᴰᵉᵈⁱᶜᵃᵗᵉᵈ ʷᵉᵇ ᵈᵉᵛᵉˡᵒᵖᵉʳ ʷⁱᵗʰ ᵃ ˢᵗʳᵒⁿᵍ ᶠᵒᵘⁿᵈᵃᵗⁱᵒⁿ ⁱⁿ ʲᵃᵛᵃˢᶜʳⁱᵖᵗ.
 </p>
 
 <p align="center">
-  🎓 I have eye for detail, i strive to write clean, readable and maintainable code independently and collaboratively...
+  🎓 ᴵ ʰᵃᵛᵉ ᵉʸᵉ ᶠᵒʳ ᵈᵉᵗᵃⁱˡ, ⁱ ˢᵗʳⁱᵛᵉ ᵗᵒ ʷʳⁱᵗᵉ ᶜˡᵉᵃⁿ, ʳᵉᵃᵈᵃᵇˡᵉ ᵃⁿᵈ ᵐᵃⁱⁿᵗᵃⁱⁿᵃᵇˡᵉ ᶜᵒᵈᵉ ⁱⁿᵈᵉᵖᵉⁿᵈᵉⁿᵗˡʸ ᵃⁿᵈ ᶜᵒˡˡᵃᵇᵒʳᵃᵗⁱᵛᵉˡʸ...
 </p>
 
 <p align="center">
-  🚀 Exploring frameworks like Node.js, Express, MongoDB, PostgreSQL, ReactJs and django. Learning more about responsive web app principles, server rendering and restful APIs.
+  🚀 ᴱˣᵖˡᵒʳⁱⁿᵍ ᶠʳᵃᵐᵉʷᵒʳᵏˢ ˡⁱᵏᵉ ᴺᵒᵈᵉ.ʲˢ, ᴱˣᵖʳᵉˢˢ, ᴹᵒⁿᵍᵒᴰᴮ, ᴾᵒˢᵗᵍʳᵉˢQᴸ, ᴿᵉᵃᶜᵗᴶˢ ᵃⁿᵈ ᵈʲᵃⁿᵍᵒ. ᴸᵉᵃʳⁿⁱⁿᵍ ᵐᵒʳᵉ ᵃᵇᵒᵘᵗ ʳᵉˢᵖᵒⁿˢⁱᵛᵉ ʷᵉᵇ ᵃᵖᵖ ᵖʳⁱⁿᶜⁱᵖˡᵉˢ, ˢᵉʳᵛᵉʳ ʳᵉⁿᵈᵉʳⁱⁿᵍ ᵃⁿᵈ ʳᵉˢᵗᶠᵘˡ ᴬᴾᴵˢ.
 </p>
 
 ---
