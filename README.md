@@ -16,7 +16,7 @@
 
 ---
 
-<p align="center" >
+<p align="center" fontsise="13">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="20" height="20" alt="JavaScript" /></a> ᴵ ᵃᵐ ᵃ ᶠᵘˡˡ-ˢᵗᵃᶜᵏ ᴰᵉᵛᵉˡᵒᵖᵉʳ!
 </p>
 
