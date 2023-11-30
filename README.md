@@ -9,18 +9,18 @@
 
 ---
 
-<p align="center">
-     𝙺𝚊𝚋𝚒𝚛𝚞 𝚂𝚑𝚊𝚒𝚋𝚞
+<p align="center">         
+  【K】【A】【B】【I】【R】【U】   -   【S】【H】【A】【I】【B】【U】
 </p>
 
 
 ---
 
 <p align="center" fontsize=33>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="20" height="20" alt="JavaScript" /></a> ᴵ ᵃᵐ ᵃ ᶠᵘˡˡ-ˢᵗᵃᶜᵏ ᴰᵉᵛᵉˡᵒᵖᵉʳ!
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="20" height="20" alt="JavaScript" /></a STRONG>  𝔣𝔲𝔩𝔩-𝔰𝔱𝔞𝔠𝔨 𝔡𝔢𝔳𝔢𝔩𝔬𝔭𝔢𝔯
 </p>
 
-
+---
 
 <p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
