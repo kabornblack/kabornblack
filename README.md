@@ -7,11 +7,7 @@
 
 
 
----
 
-<p align="center">         
-  【K】【A】【B】【I】【R】【U】   -   【S】【H】【A】【I】【B】【U】
-</p>
 
 
 ---
